@@ -1,0 +1,1 @@
+This isn't John's first Git project
